@@ -1,0 +1,47 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "75",
+      "goal": "Build muscle mass",
+      "restrictions": "No dairy"
+    },
+    "solution_criteria": [
+      "Includes breakfast, lunch, dinner and snack",
+      "Accounts for muscle building goal",
+      "Avoids dairy products"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Muscle building athlete with dairy restriction"
+  },
+  {
+    "prompt_inputs": {
+      "height": "165",
+      "weight": "60",
+      "goal": "Lose weight",
+      "restrictions": "Vegetarian"
+    },
+    "solution_criteria": [
+      "Includes breakfast, lunch, dinner and snack",
+      "Accounts for weight loss goal",
+      "No meat products"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Vegetarian athlete focused on weight loss"
+  },
+  {
+    "prompt_inputs": {
+      "height": "175",
+      "weight": "70",
+      "goal": "Improve endurance",
+      "restrictions": "Gluten free"
+    },
+    "solution_criteria": [
+      "Includes breakfast, lunch, dinner and snack",
+      "Accounts for endurance training goal",
+      "Avoids gluten containing foods"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Endurance athlete with gluten intolerance"
+  }
+]
